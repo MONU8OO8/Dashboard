@@ -6,6 +6,7 @@ import { Ecommerce, Customers } from "./pages";
 import "./App.css";
 
 const App = () => {
+  
   const {
     setCurrentColor,
     setCurrentMode,
